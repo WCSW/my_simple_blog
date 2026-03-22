@@ -42,7 +42,10 @@ body {
   border: 5px solid white;
   margin-bottom: 1rem;
 }
-
+#summary {
+  color: white;
+  text-decoration: none;
+}
 #summary address {
   font-weight: bold;
 }
